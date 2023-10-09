@@ -3,7 +3,7 @@
     font-size:"10px";
 }
 body {
-  background-image: url('c:\reactapi\myreactapi\src\imgs\8.jpg');
+  background-image: url('c:\react-demo\frontend\src\imgs\8.jpg');
   background-size: cover;
   background-attachment: fixed; /* To make the background image fixed */
   position: relative;
